@@ -20,3 +20,5 @@ const sPonGEbOBIzeWOrD = (wORd: string): string => {
 
   return fInALResULt.join('')
 }
+
+export default sPonGEbOBIze
